@@ -34,10 +34,9 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Next Updates</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/AngeliqeLuna" target="_blank">Author</a>
 </p>
@@ -47,6 +46,8 @@
 ## :dart: About ##
 
 PacMen Factory is a task of the Professional Certificate in coding of the MIT, to create a PacMen on demand, and move these little friends across the page. The goal is the Pacmen should be in a random position on the screen and start moving at random velocity. When a Pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
+
+<h4>Go to the <a href="https://angeliqeluna.github.io/PacMen/">DEMO </a></h4>
 
 ## :sparkles: Next Updates ##
 
