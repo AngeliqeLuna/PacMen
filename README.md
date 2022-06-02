@@ -39,7 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/{{AngeliqeLuna}}" target="_blank">Author</a>
 </p>
 
 <br>
@@ -48,25 +48,23 @@
 
 PacMen Factory is a task of the Professional Certificate in coding of the MIT, to create a PacMen on demand, and move these little friends across the page. The goal is the Pacmen should be in a random position on the screen and start moving at random velocity. When a Pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
 
-## :sparkles: Features ##
+## :sparkles: Next Updates ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+Add a better graphic design;\
+Add controls with the keyboard;\
+Change the PacMen, create a new character;
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript]
+- [HTML]
+- [CSS]
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Only need a mouse (not the animal), a browser and internet conexion
 
 ## :checkered_flag: Starting ##
 
@@ -91,7 +89,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/AngeliqeLuna" target="_blank">Angelica Luna</a>
 
 &#xa0;
 
